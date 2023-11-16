@@ -1,7 +1,7 @@
 /* Java program to push zeroes to back of array */
 import java.io.*; 
 
-class PushZero 
+public class Main 
 { 
 	// Function which pushes all zeros to end of an array. 
 	static void pushZerosToEnd(int arr[], int n) 
